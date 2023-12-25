@@ -1,0 +1,7 @@
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.AssemblyInfoInputs.cache
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.AssemblyInfo.cs
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.csproj.CoreCompileInputs.cache
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.RazorAssemblyInfo.cache
+C:\Users\Saliha\source\repos\MiSereneRe\MiSereneRe\obj\Debug\net6.0\MiSereneRe.RazorAssemblyInfo.cs
